@@ -1,0 +1,10 @@
+{
+  "provider": "",
+  "recipient": "",
+  "privateKey": "",
+  "profit": 200,
+  "AMOUNT_OF_ETH": 0.00002,
+  "Slippage": 100,
+  "gasPrice": 5,
+  "gasLimit": 345684
+}
